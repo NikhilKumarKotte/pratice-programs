@@ -1,5 +1,6 @@
 import qrcode
 
+print("--------------------")
 print("📱 QR CODE GENERATOR")
 print("--------------------")
 
