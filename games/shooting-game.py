@@ -68,8 +68,8 @@ while running:
     if random.randint(1, 30) == 1:
 
         target = pygame.Rect(
-            random.randint(0, WIDTH - 30),
-            random.randint(0, HEIGHT - 30),
+            random.randint(0, WIDTH - 40),
+            random.randint(0, HEIGHT - 40),
             30,
             30
         )
